@@ -38,8 +38,6 @@ mahjong-pick-seats/
    git clone https://github.com/amo0725/mahjong-pick-seats.git
    ```
 
-````
-
 2. 進入項目目錄：
 
    ```bash
@@ -55,4 +53,3 @@ mahjong-pick-seats/
 ## 許可
 
 此項目使用 MIT 許可證。詳細信息請參閱 LICENSE 文件。
-````
